@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/NRSDK/Demos/RGBCamera.unity
     guid: 993f597e755bea3458ddb3a66c40bdd2
-  - enabled: 1
+  - enabled: 0
     path: Assets/NRSDK/Demos/RGBCamera-Yuv.unity
     guid: ac5e83daee470974aa9ec9909688daca
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
